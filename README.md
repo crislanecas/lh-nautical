@@ -1,5 +1,7 @@
 # LH Nautical — Análise de Dados e Sistema de Recomendação
 
+![Dashboard LH Nautical](./05.%20Power%20BI/dashboard.png)
+
 Projeto de dados ponta a ponta desenvolvido a partir do desafio técnico da Indicium Academy, com dados da LH Nautical, empresa fictícia de varejo náutico.
 
 O projeto percorre diferentes etapas de uma solução de dados, desde a análise exploratória e estruturação dos dados em PostgreSQL até análises de clientes, previsão de demanda, sistema de recomendação e comunicação dos resultados em um dashboard desenvolvido no Power BI.
@@ -67,9 +69,11 @@ lh-nautical/
 │   └── dataset_treino.csv
 │
 ├── 05. Power BI/
+│   ├── dashboard.png
 │   └── dashboard.pbix
 │
 ├── 06. Relatório/
+│   └── Relatorio.pdf
 │
 ├── .gitignore
 └── README.md
