@@ -1,0 +1,35 @@
+# Sistema operacional (macOS e Windows)
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Configurações locais (ambientes virtuais Python)
+.venv/
+venv/
+.env
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Pastas com enunciado, dados brutos e referências
+01. Desafio/
+02. Dataset/
+Referências/
+
+# Arquivos específicos
+/03. SQL/0_desafio.sql
+
+/04. Python/6_modelo_previsao_2queries.ipynb
+/04. Python/6_modelo_previsao_cvs.ipynb
+/04. Python/dataset_teste.csv
+/04. Python/dataset_treino.csv
+
+/05. Power BI/bg_dash.jpg
+/05. Power BI/bg_dash_final.jpg
+
+/06. Relatorio/relatorio.docx
