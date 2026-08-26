@@ -2,9 +2,11 @@
 
 ![Dashboard LH Nautical](./05.%20Power%20BI/dashboard.png)
 
-Projeto de dados ponta a ponta desenvolvido a partir do desafio técnico da Indicium Academy, com dados da LH Nautical, empresa fictícia de varejo náutico.
+Projeto de análise de dados ponta a ponta desenvolvido a partir do desafio técnico da Indicium Academy, utilizando dados da LH Nautical, empresa fictícia de varejo náutico.
 
-O projeto percorre diferentes etapas de uma solução de dados, desde a análise exploratória e estruturação dos dados em PostgreSQL até análises de clientes, previsão de demanda, sistema de recomendação e comunicação dos resultados em um dashboard desenvolvido no Power BI.
+A solução envolveu análise exploratória, estruturação e preparação dos dados, criação de schema e carregamento em PostgreSQL, desenvolvimento de consultas SQL para análise de vendas e clientes, construção de uma dimensão de calendário, previsão de demanda utilizando Python e sistema de recomendação baseado em similaridade de cosseno.
+
+O projeto também incluiu a construção de um dashboard no Power BI para acompanhamento de indicadores como faturamento, ticket médio, pedidos, vendas por período, desempenho por categoria e produtos.
 
 ---
 
@@ -22,6 +24,7 @@ A solução foi desenvolvida utilizando:
 - NumPy
 - Scikit-learn
 - Power BI
+- DAX
 
 O trabalho foi estruturado em etapas, acompanhando o fluxo de um projeto de dados:
 
