@@ -50,9 +50,12 @@ O projeto teve como principais objetivos:
 # 🗂️ Estrutura do projeto
 
 ```text
+## 📁 Estrutura do projeto
+
+```text
 lh-nautical/
 │
-├── 03. SQL/
+├── 03_sql/
 │   ├── 2_schema.sql
 │   ├── 3_validacao.sql
 │   ├── 4_analise_clientes.sql
@@ -60,10 +63,10 @@ lh-nautical/
 │   ├── 6_previsao.sql
 │   ├── 6_validacao.sql
 │   ├── 7_recomendacao.sql
-│   ├── 8_validacao_powerbi_asdf.sql
-│   └── 8_validacao_powerbi.sql
+│   ├── 8_validacao_powerbi.sql
+│   └── 8_validacao_powerbi_asdf.sql
 │
-├── 04. Python/
+├── 04_python/
 │   ├── 2_schema.ipynb
 │   ├── 3_carregamento.ipynb
 │   ├── 6_modelo_previsao.ipynb
@@ -71,16 +74,16 @@ lh-nautical/
 │   ├── dataset_teste.csv
 │   └── dataset_treino.csv
 │
-├── 05. Power BI/
+├── 05_power_bi/
 │   ├── dashboard.png
 │   └── dashboard.pbix
 │
-├── 06. Relatório/
+├── 06_relatorio/
 │   └── Relatorio.pdf
 │
 ├── .gitignore
 └── README.md
-
+```
 
 ⚠️ Observações sobre os dados
 
