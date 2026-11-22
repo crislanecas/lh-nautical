@@ -81,6 +81,9 @@ lh-nautical/
 ├── 06_relatorio/
 │   └── Relatorio.pdf
 │
+├── referencias/
+│   └── materiais de apoio e referências utilizadas
+│
 ├── .gitignore
 └── README.md
 ```
