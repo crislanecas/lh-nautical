@@ -50,9 +50,6 @@ O projeto teve como principais objetivos:
 # 🗂️ Estrutura do projeto
 
 ```text
-## 📁 Estrutura do projeto
-
-```text
 lh-nautical/
 │
 ├── 03_sql/
